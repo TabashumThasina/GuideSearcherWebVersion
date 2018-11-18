@@ -1,0 +1,9 @@
+C:\Users\rafa_\OneDrive\VS\ASP.NET\Travel\TravelData\obj\Debug\TravelData.csprojResolveAssemblyReference.cache
+C:\Users\rafa_\OneDrive\VS\ASP.NET\Travel\TravelData\bin\Debug\TravelData.dll.config
+C:\Users\rafa_\OneDrive\VS\ASP.NET\Travel\TravelData\bin\Debug\TravelData.dll
+C:\Users\rafa_\OneDrive\VS\ASP.NET\Travel\TravelData\bin\Debug\TravelData.pdb
+C:\Users\rafa_\OneDrive\VS\ASP.NET\Travel\TravelData\bin\Debug\EntityFramework.dll
+C:\Users\rafa_\OneDrive\VS\ASP.NET\Travel\TravelData\bin\Debug\TravelEntity.dll
+C:\Users\rafa_\OneDrive\VS\ASP.NET\Travel\TravelData\bin\Debug\TravelEntity.pdb
+C:\Users\rafa_\OneDrive\VS\ASP.NET\Travel\TravelData\obj\Debug\TravelData.dll
+C:\Users\rafa_\OneDrive\VS\ASP.NET\Travel\TravelData\obj\Debug\TravelData.pdb

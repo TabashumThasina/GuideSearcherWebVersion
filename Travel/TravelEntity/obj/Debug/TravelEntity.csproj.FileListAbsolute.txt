@@ -1,0 +1,5 @@
+C:\Users\rafa_\OneDrive\VS\ASP.NET\Travel\TravelEntity\obj\Debug\TravelEntity.csprojResolveAssemblyReference.cache
+C:\Users\rafa_\OneDrive\VS\ASP.NET\Travel\TravelEntity\bin\Debug\TravelEntity.dll
+C:\Users\rafa_\OneDrive\VS\ASP.NET\Travel\TravelEntity\bin\Debug\TravelEntity.pdb
+C:\Users\rafa_\OneDrive\VS\ASP.NET\Travel\TravelEntity\obj\Debug\TravelEntity.dll
+C:\Users\rafa_\OneDrive\VS\ASP.NET\Travel\TravelEntity\obj\Debug\TravelEntity.pdb
